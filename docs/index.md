@@ -20,6 +20,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Introduction 
 
+Retail Zoo IT uses ManagedEngine Service Desk Plus as a complete service desk solution. 
 
 ## Requests
 
