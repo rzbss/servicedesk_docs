@@ -2,3 +2,15 @@ site_name: Retail Zoo Managed Engine Service Desk
 site_url: https://example.com/
 theme:
   name: readthedocs 
+nav:
+  - Introduction: index.md
+  - About: about.md
+  - Requests: requests.md
+  - Services: services.md
+  - Incidents: incidents.md
+  - Groups: groups.md
+  - Tasks: tasks.md
+  - Checklists: checklists.md
+  - Problems: problems.md
+  - Asset Management: asset_management.md
+  - Keyboard Shortcuts: keyboard_shortcuts.md
